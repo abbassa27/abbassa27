@@ -33,10 +33,9 @@ Creative Design: Delivering professional book covers that stand out on platforms
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
-🌐 Let’s Connect
-Portfolio & Services: abbassamalik.com
-
-Creative Projects: Behance Profile
+ 🌐 Let’s Connect
+     Portfolio & Services: [abbassamalik.com](https://abbassamalik.com/)
+     Creative Projects: [Behance Profile](https://www.behance.net/)
 
 Professional Inquiries: Open for technical collaborations and freelance projects.
 
