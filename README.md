@@ -1,23 +1,24 @@
-Malik Abbassa | Computer Specialist & Digital Solutions Architect
-I am a highly skilled Computer Specialist with a dual passion for software development and digital publishing. I help authors and businesses bridge the gap between physical content and the digital world through custom automation, robust web development, and professional design.
+# Malik Abbassa | Computer Specialist & Digital Solutions Architect
 
-🛠 Technical Expertise
-Web Development: Proficient in Next.js, React, and custom WordPress theme development.
+I am a highly skilled **Computer Specialist** with a dual passion for software development and digital publishing. I help authors and businesses bridge the gap between physical content and the digital world through custom automation, robust web development, and professional design.
 
-Software & Automation: Skilled in Python scripting for workflow automation and AI-driven document processing.
+---
 
-Digital Publishing: Expert in converting physical manuscripts into professional eBooks and designing high-converting book covers.
+### 🛠 Technical Expertise
+* **Web Development:** Proficient in **Next.js**, React, and custom WordPress theme development.
+* **Software & Automation:** Skilled in **Python** scripting for workflow automation and AI-driven document processing.
+* **Digital Publishing:** Expert in converting physical manuscripts into professional eBooks and designing high-converting book covers.
+* **IT & Systems:** Experienced Computer Specialist, providing technical troubleshooting, hardware optimization, and infrastructure support.
 
-IT & Systems: Experienced Computer Specialist, providing technical troubleshooting, hardware optimization, and infrastructure support.
+---
 
-🚀 What I Can Do For You
-Digital Transformation: Converting physical books into high-quality digital formats.
+### 🚀 What I Can Do For You
+* **Digital Transformation:** Converting physical books into high-quality digital formats.
+* **Web Solutions:** Building high-performance websites and SaaS platforms with modern stacks.
+* **Automation:** Developing custom Python scripts to streamline complex document workflows.
+* **Creative Design:** Delivering professional book covers that stand out on [Behance](https://www.behance.net/).
 
-Web Solutions: Building high-performance websites and SaaS platforms with modern stacks.
 
-Automation: Developing custom Python scripts to streamline complex document workflows.
-
-Creative Design: Delivering professional book covers that stand out on platforms like Behance.
 
  🛠 Technical Skills
 
@@ -33,10 +34,12 @@ Creative Design: Delivering professional book covers that stand out on platforms
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
- 🌐 Let’s Connect
-     Portfolio & Services: [abbassamalik.com](https://abbassamalik.com/)
-     Creative Projects: [Behance Profile](https://www.behance.net/)
+---
 
-Professional Inquiries: Open for technical collaborations and freelance projects.
+### 🌐 Let’s Connect
+* 🔗 **Portfolio & Services:** [abbassamalik.com](https://abbassamalik.com/)
+* 🎨 **Creative Projects:** [Behance Profile](https://www.behance.net/)
+* 📧 **Professional Inquiries:** Open for technical collaborations and freelance projects.
 
-If you are looking for a blend of technical precision and creative design, let’s build something great together.
+---
+*If you are looking for a blend of technical precision and creative design, let’s build something great together.*
